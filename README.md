@@ -1,2 +1,2 @@
 # Refresh.js
-Actualiza o refresca un HTML, en JAVASCRIPT..
+Actualiza o refresca un HTML, en *JAVASCRIPT*..
